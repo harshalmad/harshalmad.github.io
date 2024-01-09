@@ -1,0 +1,11 @@
+July 24:
+set up basic website and mysql database using xampp. submission page using PHP
+
+July 25:
+
+
+technologies used:
+HTML
+CSS
+PHP
+XAMPP
