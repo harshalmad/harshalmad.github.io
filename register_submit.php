@@ -6,10 +6,10 @@
 $x=$_POST['email'];
 $y=$_POST['firstname'];
 $z=$_POST['lastname'];
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname="drinksproject";
+$servername = "sql200.infinityfree.com";
+$username = "if0_35752967";
+$password = "BVtexyMWULS";
+$dbname="if0_35752967_drinksproject";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 
