@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Disney Drink Rewards</title>
+  <title>HMADH Drinks</title>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Custom CSS -->
@@ -14,7 +14,7 @@
   <nav class="navbar navbar-expand-md bg-dark navbar-dark">
     <div class="container">
       <!-- Brand/logo (You can replace this with your logo or brand name) -->
-      <a class="navbar-brand" href="#">Disney Drinks Project</a>
+      <a class="navbar-brand" href="#">HMADH Drinks</a>
 
       <!-- Toggler/collapsible Button for mobile navigation -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarLinks">

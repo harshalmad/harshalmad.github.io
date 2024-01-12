@@ -19,6 +19,11 @@ nav, footer {
   padding: 10px 0;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
 .container {
   flex: 1;
   overflow-y: auto;
